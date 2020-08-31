@@ -1,0 +1,9 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:JhonnyJason/relationship-rewards-output.git
+[submodule "sources"]
+	path = sources
+	url = git@github.com:JhonnyJason/relationship-rewards-sources.git
+[submodule "toolset"]
+	path = toolset
+	url = git@github.com:JhonnyJason/toolset.git
